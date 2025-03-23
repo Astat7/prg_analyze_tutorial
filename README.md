@@ -8,6 +8,6 @@
 - Najděte mód, který chcete nainstalovat
 - Stáhněte tento mód a extrahujte ho
 - Následně najděte složku s xml souborem "ModInfo.xml"
-- Tuto +složku+ vložte do složky "Mods"
+- Tuto **složku** vložte do složky "Mods"
 ## 3. Závěr
 - Teď už jenom stačí spustit hru
